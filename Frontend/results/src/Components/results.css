@@ -1,0 +1,16 @@
+.heading {
+    font-weight: bold;
+}
+
+.heading_table {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.topper {
+    color: green;
+}
+
+.failure {
+    color: red;
+}
